@@ -4,7 +4,7 @@
 
 ## Лекції
 
-[Огляд курсу](lecutres/00_introduction.md)
+[Огляд курсу](lectures/00_introduction.md)
 
 ### План
 
